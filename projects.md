@@ -7,11 +7,9 @@ title: Projects
 
 ---
 
-# My Projects
+# My Notes
 
-Here are some of the things I’ve built:
-
-- [Cool Website](https://github.com/yourusername/cool-website)
+- [Azure Notes](projects/azure.md)
 - [Data Visualization](https://github.com/yourusername/data-viz)
 - [Portfolio Template](https://github.com/yourusername/portfolio-template)
 
