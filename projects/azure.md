@@ -94,9 +94,19 @@ Microsoft Intune is a cloud-based device and application management service that
     - Protecting company data on personal (BYOD) devices.   
     - Remotely wiping data from lost or stolen devices.
     - Ensuring all devices comply with security standards.
-    
+
 ### Azure Virtual Network
 
 ### Local Network Gateway and Virtual Network Gateway
+
+### Azure Sphere
+
+### IoT Central
+
+### IoT Hub
+
+### Azure Logic Apps
+
+### Azure Blueprints
 
 You can learn more **[About me](../about.md)** or **[Contact me](../contact.md)**.
