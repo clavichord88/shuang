@@ -198,6 +198,8 @@ Examples of Built-in Roles: Owner, Contributor, Reader, User Access Administrato
 
 ### Microsoft Purview
 
+Microsoft Purview is a unified data governance and compliance solution in Azure. Microsoft Purview helps you ensure that your organization’s data is well-governed, secure, and compliant with internal and external regulations (like GDPR, HIPAA, etc.). Microsoft Purview Data Governance is for managing and cataloging data across cloud and on-prem environments. Microsoft Purview Compliance Manager is for assessing and managing compliance risks and regulatory requirements.
+
 ### fault domain
 
 ### storage redundancy options: GRS, ZRS, LRS, GZRS
