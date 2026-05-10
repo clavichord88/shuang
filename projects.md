@@ -10,6 +10,7 @@ title: Projects
 # My Notes
 
 - [Azure Notes](projects/azure.md)
+- [MS Fabric](projects/fabric.md)
 - [Data Visualization](https://github.com/yourusername/data-viz)
 - [Portfolio Template](https://github.com/yourusername/portfolio-template)
 
