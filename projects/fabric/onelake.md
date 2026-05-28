@@ -24,6 +24,6 @@ When you find semantic models in the catalog, you can explore and connect to the
 
 ### Discover streaming data
 
-The Real-Time hub is the centralized catalog for discovering and managing streaming data across Microsoft Fabric. While the OneLake catalog shows batch data stored in lakehouses and warehouses, the Real-Time hub displays eventstreams and KQL tables that are actively running in your organization. Streaming data often flows into eventhouses, which are containers that hold one or more KQL databases. These databases store time- or event-based events and support fast querying by using Kusto Query Language (KQL).
+The Real-Time hub is the centralized catalog for discovering and managing streaming data across Microsoft Fabric. While the OneLake catalog shows batch data stored in lakehouses and warehouses, the Real-Time hub displays eventstreams and KQL tables that are actively running in your organization. Streaming data often flows into eventhouses, which are containers that hold one or more KQL databases. These databases store time- or event-based events and support fast querying by using Kusto Query Language (KQL). Data is automatically indexed and partitioned by ingestion time, enabling quick analysis even during continuous data ingestion.
 
 You can learn more **[About me](../about.md)** or **[Contact me](../contact.md)**.
