@@ -23,5 +23,6 @@ In Microsoft Fabric, workspaces serve as logical containers that help you organi
 Each workspace has its own set of permissions, ensuring that only authorized users can view or modify its contents. This structure supports team collaboration while maintaining strict access control for both business and IT users. Workspaces allow you to manage compute resources and integrate with Git for version control. You can optimize performance and cost by configuring compute settings, while Git integration helps track changes, collaborate on code, and maintain a history of your work.
 
 - **[Discover and connect to data in OneLake](./fabric/onelake.md)**
+- **[Describe lakehouse features and capabilities](./fabric/lakehouse.md)**
 
 You can learn more **[About me](../about.md)** or **[Contact me](../contact.md)**.
