@@ -24,5 +24,6 @@ Each workspace has its own set of permissions, ensuring that only authorized use
 
 - **[Discover and connect to data in OneLake](./fabric/onelake.md)**
 - **[Describe lakehouse features and capabilities](./fabric/lakehouse.md)**
+- **[Data Warehouse](./fabric/datawarehouse.md)**
 
 You can learn more **[About me](../about.md)** or **[Contact me](../contact.md)**.
